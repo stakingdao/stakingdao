@@ -2,7 +2,7 @@
 
 Contracts of Staking DAO
 
-You can claim POS from here: https://thestakingdao.org
+You can claim POS from here: https://www.thestakingdao.org
 
 ## Deployed contracts:
 - POS Token: 0x02268AE132c1406D4415B4463915608C9CD84268
